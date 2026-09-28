@@ -1,20 +1,4 @@
 
-rishat-goatbot-v2
-Repository navigation
-Code
-Issues
-Pull requests
-rishat-goatbot-v2
-/DOCS.md
-EryXenX
-EryXenX
-3 weeks ago
-183 lines (144 loc) · 6.51 KB
-
-Preview
-
-Code
-
 Blame
 🛠️ Built-in Functions:
 Translate
@@ -66,4 +50,4 @@ Or if using vscode you can create new command with snippets GoatBotCommandCreate
 
 68747470733a2f2f692e6962622e636f2f565473747253792f416e696d6174696f6e2e676966
 
-🚀 Updating...
+🚀 Updating..
